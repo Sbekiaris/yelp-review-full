@@ -1,2 +1,2 @@
 # yelp-review-full
-Yelp Review Full Analysis
+This is a jupyter notebook of the Yelp Review Full dataset analysis.
